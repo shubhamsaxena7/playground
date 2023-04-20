@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Directions",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Directions_JSObject1",
+  "deleted": false,
+  "gitSyncId": "64410a885689b020f575b556_64410abbfab89e383409c322"
+}
